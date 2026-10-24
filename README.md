@@ -11,6 +11,7 @@ The **Financial Risk Matrix** is a Power BI dashboard designed to analyze loan a
 
 
 
+
 ## Key Features
 - **YoY Loan Amount Change:** Tracks annual changes in loan amounts from 2013 to 2018.
 - **YoY Default Loan Changes:** Analyzes annual fluctuations in default loan figures to identify potential risk trends.
