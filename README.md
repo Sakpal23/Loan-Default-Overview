@@ -5,7 +5,8 @@
 The **Financial Risk Matrix** is a Power BI dashboard designed to analyze loan amounts, default loan trends, and borrower risk segments. It provides insights into year-over-year changes, credit score categories, marital status, income brackets, and employment types to support data-driven financial risk analysis.
 
 ## Dashboard Preview
-![Uploading ![Financial Risk Matrix Dashboard](Dashboard.png).png…]()
+<img width="1447" height="805" alt="! Financial Risk Matrix Dashboard (Dashboard png)" src="https://github.com/user-attachments/assets/19f8e19d-c7be-4bff-be56-50a2cfed1e7d" />
+
 
 
 
