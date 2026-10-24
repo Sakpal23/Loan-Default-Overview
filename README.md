@@ -1,3 +1,3 @@
 # Loan-Default-Overview
-Power BI report on loan default risk: DAX measures, 3-page dashboard, 255K loans
+Financial Risk Matrix Dashboard built in Power BI to analyze loan trends, default loan changes, credit score segments, marital status, and borrower income and employment categories using DAX and interactive visuals.
 
